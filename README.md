@@ -16,9 +16,3 @@ The program checks whether a given 9x9 Sudoku grid is a valid solution by spawni
 - Fast and efficient logic
 - Easy to modify the input grid
 
-## 🔧 Compilation
-
-Use `gcc` with `-pthread` flag:
-
-```bash
-gcc -pthread sudoku-validator.c -o sudoku-validator
